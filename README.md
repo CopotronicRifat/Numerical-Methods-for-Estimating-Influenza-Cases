@@ -64,8 +64,8 @@ git clone https://github.com/CopotronicRifat/Numerical-Methods-for-Estimating-In
 
 MIT License
 
-## Author
+## Authors
 
 **Rifat Rafiuddin**  
+**Mohammed Rakib**  
 Oklahoma State University – CS5513 (Spring 2024)
-
